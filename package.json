@@ -1,0 +1,19 @@
+{
+  "name": "webprojectideasserve",
+  "version": "1.0.0",
+  "description": "A small API that servers ideas for web development projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.dev.azure.com:v3/xavier0047/webProjectIdeas/webProjectIdeas"
+  },
+  "author": "xavierhazzardadmin",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
